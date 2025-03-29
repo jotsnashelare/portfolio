@@ -68,7 +68,7 @@ function Home() {
           <div className={styles.greeting}>
             <span className={styles.wave}>👋</span> Hi there! I'm
           </div>
-          <h1 className={styles.name}>Sudarshan Bhosale</h1>
+          <h1 className={styles.name}>Jotsna Shelare</h1>
           <h2 className={styles.role}>
             {typedText}
             <span className={`${styles.cursor} ${showCursor ? styles.visible : ''}`}>|</span>
@@ -165,16 +165,16 @@ function Home() {
             <pre className={styles.codeBlock}>
               <code>
 {`const developer = {\n`}
-{`  name: "Sudarshan Bhosale",\n`}
+{`  name: "Jotsna Shelare",\n`}
 {`  role: "${roles[currentRoleIndex]}",\n`}
 {`  skills: [\n`}
 {`    "JavaScript", "React", "Java",\n`}
 {`    "Spring Boot", "MySQL", "Docker"\n`}
 {`  ],\n`}
 {`  contact: {\n`}
-{`    email: "bhosalesudarshan9@gmail.com",\n`}
+{`    email: "jyotsnashelare5@gmail.com",\n`}
 {`    twitter: "@darker09",\n`}
-{`    github: "Darker009"\n`}
+{`    github: "jotsnashelare"\n`}
 {`  }\n`}
 {`};\n\n`}
 {`function buildSomethingAwesome() {\n`}
@@ -193,7 +193,7 @@ function Home() {
           <img src={twitter} alt="Twitter" />
           <span>Twitter</span>
         </a>
-        <a href="https://github.com/Darker009" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+        <a href="https://github.com/jotsnashelare" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
           <img src={github} alt="GitHub" />
           <span>GitHub</span>
         </a>
